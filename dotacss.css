@@ -1,0 +1,43 @@
+body
+{
+	background-image: url("dotabg.jpg");
+	background-size: cover;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+.option
+{
+  text-align: center;
+  color: white;
+  width: 800px;
+}
+
+.navigate
+{
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 20px
+}
+
+.logo
+{
+	width: 500px;
+	height: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1
+{
+	text-align: center;
+	color: white
+}
+
+h2
+{
+	text-decoration: underline;
+	color: white
+}
